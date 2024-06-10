@@ -65,33 +65,7 @@ img {
 opacity: 1; color: brown;
     }
 
-    @media screen and (max-width:800px) {
-    .hero {
-        padding:40px; background-color: rgb(107, 173, 86); font-size: x-large;
-    }
-    .OBJECTIVE {
-        padding: 40PX; font-size: xx-large;
-    }
-    .education {
-        font-size: xx-large; padding: 40px;
-    }
-    .profile {
-        padding: 40px; font-size: x-large; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: aquamarine;
-    }
-    .declaration {
-        font-size: xx-large; padding: 40px; background-color: cornflowerblue;
-    }
-   footer {
-    background-color: darkgray; font-size: xx-large; height: 150px; padding: 50px;
-   }
-   i {
-    padding: 50px; margin: 40px; height: 100px; background: fixed; 
-   }
-   .edu {
-    font-size: x-large; color: blue; background-color: chocolate;  padding: 40px;
-   }
-}
-
+    
 
     
     
